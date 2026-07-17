@@ -2,6 +2,8 @@
 
 ImpactFlow AI is a bilingual, multi-organisation operations platform for projects, reports, finance, beneficiary reach, supporting evidence and assistive AI analysis. It is designed for humanitarian and social-impact teams that need a clear audit trail without a heavyweight enterprise deployment.
 
+**Live demo:** https://mustafa00d.github.io/impactflow-ai/
+
 ## What is included
 
 - Responsive Arabic/English interface with RTL/LTR support and dark mode
@@ -16,6 +18,7 @@ ImpactFlow AI is a bilingual, multi-organisation operations platform for project
 - Supabase PostgreSQL schema, row-level security and private evidence bucket
 - Server-side Gemini integration through a Supabase Edge Function
 - Unit test and GitHub Actions verification workflow
+- Automated GitHub Pages deployment from the `main` branch
 
 ## Run locally
 
